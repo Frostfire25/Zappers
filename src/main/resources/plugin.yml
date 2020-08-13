@@ -1,0 +1,7 @@
+name: SpawnerZappers
+version: ${project.version}
+main: co.antiqu.spawnerzappers.SpawnerZappers
+api-version: 1.16.1
+authors: [AlexElg]
+depend: [MassiveCore, Factions, SilkSpawners]
+soft-depend: [MobExtras]
